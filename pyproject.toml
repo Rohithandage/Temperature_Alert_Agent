@@ -1,0 +1,13 @@
+[tool.poetry]
+name = "Temperature_Alert_Agent"
+version = "0.1.0"
+authors = [
+    "Rohit Handage <rohithandage2002@gmail.com>",
+    "Shridhar balla <shridharballa3@gmail.com>",
+    "Rishikesh jamadar <rishikeshjamadar7771@gmail.com>",
+    "Nikhil Hinge <hingenikhil316@gmail.com>",
+]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+uAgents = "*"
